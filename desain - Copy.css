@@ -1,0 +1,12 @@
+body{
+	background-color: skyblue;
+	margin: 0px;
+	padding: 0px;
+	font-family: 'open sans',sans-serif;
+}
+
+.wrapper{
+	width: 1000px;
+	margin: auto;
+	position: relatove;
+}
